@@ -9,9 +9,6 @@ let unusedVar = 99;
 let x = 42;
 
 // Duplicate function (Code smell)
-function add(a, b) {
-  return a + b;
-}
 
 // Too many parameters (Maintainability)
 function calculate(a, b, c, d, e, f) {
