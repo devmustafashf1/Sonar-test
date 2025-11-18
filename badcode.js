@@ -13,9 +13,7 @@ function add(a, b) {
   return a + b;
 }
 
-function add(x, y) { // Duplicate
-  return x + y;
-}
+
 
 // Too many parameters (Maintainability)
 function calculate(a, b, c, d, e, f) {
