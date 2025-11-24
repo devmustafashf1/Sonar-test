@@ -3,7 +3,6 @@ const PASSWORD = "123456";
 const SECRET_KEY = "mysecret";
 
 // Unused variable (Maintainability)
-let unusedVar = 99;
 
 // Magic number, bad naming, var keyword
 let x = 42;
